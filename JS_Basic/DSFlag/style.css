@@ -1,13 +1,19 @@
+html {
+    background-color: peachpuff;
+}
 img {
     height: 200px;
     width: 300px;
 }
 div {
+    background-color: white;
     width: 300px;
     height: auto;
     text-align: center;
 }
 .name {
+    margin-top: 10px;
+    font-size: large;
     margin-bottom: 10px;
 }
 
